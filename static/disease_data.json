@@ -1,0 +1,817 @@
+[
+    {
+        "Penyakit": "Abses",
+        "Gejala dan tanda": [
+            "Abses"
+        ],
+        "Penyebab": [
+            "Infeksi bakteri yang masuk ke tubuh melalui luka terbuka",
+            "gigitan serangga",
+            "atau cedera lainnya."
+        ],
+        "Pengobatan": [
+            " Bersihkan area yang terinfeksi",
+            " Drainase untuk mengeluarkan nanah",
+            " Pemberian antibiotik.",
+            " Pastikan lingkungan tetap bersih untuk mencegah infeksi berulang."
+        ]
+    },
+    {
+        "Penyakit": "Avitaminosis",
+        "Gejala dan tanda": [
+            "Anorexia",
+            "Bulu Kusam",
+            "Demam",
+            "Diare",
+            "Gangguan otot",
+            "Gangguan pencernaan",
+            "Gangguan penglihatan",
+            "Gangguan pertumbuhan pada anak hewan",
+            "Gangguan pertumbuhan pada anak-anak",
+            "Gangguan reproduksi",
+            "Gangguan sistem kekebalan tubuh",
+            "Gangguan sistem saraf",
+            "Gangguan tulang",
+            "Keguguran pada betina",
+            "Kehilangan nafsu makan",
+            "Kejang",
+            "Kekurusan",
+            "Kerontokan rambut",
+            "Kesulitan dalam perkawinan",
+            "Lelah",
+            "Lemah",
+            "Masalah gigi dan gusi",
+            "Masalah kulit seperti kering",
+            "Masalah pernapasan",
+            "Penglihatan kabur",
+            "Perubahan perilaku",
+            "Pincang",
+            "Sakit otot",
+            "Sakit sendi",
+            "Sembelit",
+            "Bersisik",
+            "Keriput",
+            "Berdarah atau gusi yang bengkak",
+            "Anemia"
+        ],
+        "Penyebab": [
+            "Kekurangan vitamin esensial terutama vitamin A, D, E atau B kompleks akibat pola makan yang tidak seimbang."
+        ],
+        "Pengobatan": [
+            " Suplemen vitamin diberikan sesuai kebutuhan.",
+            " Pastikan hewan mendapatkan asupan makanan berkualitas yang mengandung vitamin yang cukup."
+        ]
+    },
+    {
+        "Penyakit": "Babesiosis",
+        "Gejala dan tanda": [
+            "Bulu kusam",
+            "Gatal",
+            "Kelainan kulit",
+            "Perkulitan"
+        ],
+        "Penyebab": [
+            "Infeksi parasit darah Babesia yang ditularkan melalui gigitan kutu."
+        ],
+        "Pengobatan": [
+            " Pemberian obat antiparasit dan terapi suportif untuk menjaga kadar darah dan hidrasi.",
+            " Vaksinasi dan pengendalian kutu diperlukan sebagai tindakan pencegahan."
+        ]
+    },
+    {
+        "Penyakit": "Bovine Ephemeral Fever",
+        "Gejala dan tanda": [
+            "Demam",
+            "Diare",
+            "Durasi gejala biasanya 3-4 hari",
+            "Gemetar",
+            "Kaku pada otot-otot tubuh",
+            "Kebingungan",
+            "Kehilangan nafsu makan",
+            "Kelesuan",
+            "Kemungkinan terjadinya kejang",
+            "Kesadaran menurun",
+            "Kesulitan berdiri",
+            "Kesulitan bergerak",
+            "Lemah",
+            "Muntah",
+            "Pembengkakan pada sendi-sendi kaki",
+            "Penurunan produksi susu pada sapi perah",
+            "Penurunan suhu tubuh setelah demam",
+            "Pincang",
+            "Produksi air liur meningkat",
+            "Sakit otot",
+            "Sakit sendi",
+            "Sempoyongan",
+            "Terjadi kejang-kejang",
+            "Tremor",
+            "Anorexia"
+        ],
+        "Penyebab": [
+            "Virus yang ditularkan melalui gigitan serangga seperti nyamuk dan lalat penghisap darah."
+        ],
+        "Pengobatan": [
+            " Istirahatkan hewan",
+            " Berikan terapi suportif untuk mengurangi nyeri dan demam",
+            " Pemberian cairan jika ada dehidrasi.",
+            " Pencegahan bisa dilakukan dengan pengendalian vektor serangga."
+        ]
+    },
+    {
+        "Penyakit": "Corpus Luteum Persisten",
+        "Gejala dan tanda": [
+            "Anestrus"
+        ],
+        "Penyebab": [
+            "Ketidakseimbangan hormonal yang menyebabkan korpus luteum (bagian ovarium) tidak larut setelah ovulasi."
+        ],
+        "Pengobatan": [
+            "Pemberian hormon prostaglandin untuk meluruhkan korpus luteum",
+            "sehingga mengembalikan siklus reproduksi hewan."
+        ]
+    },
+    {
+        "Penyakit": "Distokia",
+        "Gejala dan tanda": [
+            "Janin yang terlilit tali pusar",
+            "Keluarnya cairan atau darah dalam jumlah yang tidak normal dari vulva",
+            "Kepala atau anggota badan janin terlihat tidak normal atau terdistorsi",
+            "Kesulitan dalam proses persalinan",
+            "Keterlambatan dalam proses persalinan",
+            "Lama waktu persalinan yang tidak normal",
+            "Pendarahan atau keluarnya cairan dari vulva",
+            "Posisi atau presentasi janin yang tidak benar",
+            "Posisi atau presentasi janin yang tidak benar (misalnya kepala tersendat)",
+            "Sapi kesulitan untuk melahirkan",
+            "Sapi menunjukkan tanda-tanda kesakitan yang tidak biasa",
+            "Sapi merintih",
+            "Sapi tampak gelisah",
+            "Sapi tampak tidak nyaman",
+            "Gelisah"
+        ],
+        "Penyebab": [
+            "Ukuran janin terlalu besar",
+            "Posisi janin tidak normal",
+            "Otot rahim lemah."
+        ],
+        "Pengobatan": [
+            " Bantuan manual atau operasi Caesar bila diperlukan.",
+            " Sebagai pencegahan",
+            " Pastikan induk sehat sebelum kebuntingan dan perhatikan asupan nutrisi."
+        ]
+    },
+    {
+        "Penyakit": "Endometritis",
+        "Gejala dan tanda": [
+            "Rahim bernanah"
+        ],
+        "Penyebab": [
+            "Infeksi bakteri pada lapisan dalam rahim",
+            "Sering kali terjadi setelah melahirkan atau keguguran."
+        ],
+        "Pengobatan": [
+            " Pemberian antibiotik intrauterin atau sistemik",
+            " Terapi hormonal untuk mengatur ulang siklus birahi."
+        ]
+    },
+    {
+        "Penyakit": "Enteritis",
+        "Gejala dan tanda": [
+            "Darah dalam tinja (terkadang)",
+            "Dehidrasi",
+            "Demam",
+            "Diare",
+            "Gatal atau terasa seperti ada benda asing di mata",
+            "Gejala flu",
+            "Kehilangan nafsu makan",
+            "Keluarnya sekresi atau mata berair",
+            "Kram perut atau nyeri perut",
+            "Kurangnya urin",
+            "Lelah",
+            "Lemas",
+            "Mata cekung",
+            "Mata iritasi",
+            "Mata merah",
+            "Mencret",
+            "Mengedipkan mata lebih sering dari biasanya",
+            "Mual",
+            "Mulut kering",
+            "Muntah",
+            "Pembengkakan pada kelopak mata",
+            "Penglihatan kabur",
+            "Penurunan berat badan yang signifikan",
+            "Penurunan produksi susu pada hewan ternak (jika berlaku)",
+            "Perubahan perilaku",
+            "Perut kembung",
+            "Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri)",
+            "Rasa nyeri atau ketidaknyamanan di mata",
+            "Sensasi panas di mata",
+            "Sensitivitas terhadap cahaya (fotofobia)",
+            "Suhu tubuh yang meningkat",
+            "Pilek atau sakit tenggorokan (pada beberapa kasus)",
+            "Berat badan turun secara signifikan"
+        ],
+        "Penyebab": [
+            "Infeksi bakteri atau virus",
+            "Konsumsi makanan yang terkontaminasi",
+            "Perubahan pola makan mendadak."
+        ],
+        "Pengobatan": [
+            " Pemberian cairan untuk mengatasi dehidrasi",
+            " Antibiotik atau antimikroba jika disebabkan oleh infeksi bakteri",
+            " Menjaga kebersihan pakan."
+        ]
+    },
+    {
+        "Penyakit": "Eutokia",
+        "Gejala dan tanda": [
+            "Lahir mati",
+            "Lahir normal",
+            "Tanda lain"
+        ],
+        "Penyebab": [
+            "Kondisi kesehatan induk dan janin yang baik serta posisi janin yang benar."
+        ],
+        "Pengobatan": [
+            " Tidak memerlukan pengobatan khusus",
+            " Perhatikan asupan nutrisi kesehatan induk selama kehamilan."
+        ]
+    },
+    {
+        "Penyakit": "Fasciolosis",
+        "Gejala dan tanda": [
+            "Kekurusan",
+            "Rahang bawah bengkak",
+            "Bulu kusam"
+        ],
+        "Penyebab": [
+            "Infeksi cacing hati Fasciola yang biasa ditemukan pada hewan yang merumput di area berair atau lembab."
+        ],
+        "Pengobatan": [
+            " Pemberian obat cacing spesifik seperti triclabendazole.",
+            " Pengendalian lingkungan dan menjaga area gembala tetap kering bisa mengurangi risiko infeksi."
+        ]
+    },
+    {
+        "Penyakit": "Feline Calicivirus",
+        "Gejala dan tanda": [
+            "Anorexia",
+            "Demam",
+            "Liur berlebihan",
+            "Sempoyongan"
+        ],
+        "Penyebab": [
+            "Infeksi virus calicivirus yang menular melalui kontak langsung atau lingkungan yang terkontaminasi."
+        ],
+        "Pengobatan": [
+            " Terapi suportif seperti cairan infus dan makanan lunak",
+            " Pencegahan sekunder dengan vaksinasi."
+        ]
+    },
+    {
+        "Penyakit": "Feline Viral Rhinotracheitis",
+        "Gejala dan tanda": [
+            "Anorexia",
+            "Demam",
+            "Liur berlebihan"
+        ],
+        "Penyebab": [
+            "Virus herpes kucing yang menyebar melalui udara atau kontak langsung."
+        ],
+        "Pengobatan": [
+            " Pemberian antivirus",
+            " Terapi suportif seperti tetes mata dan hidung",
+            " Menjaga kebersihan lingkungan."
+        ]
+    },
+    {
+        "Penyakit": "Fraktur",
+        "Gejala dan tanda": [
+            "Patah tulang kaki"
+        ],
+        "Penyebab": [
+            "Trauma fisik akibat jatuh",
+            "Tertabrak",
+            "atau kecelakaan lainnya."
+        ],
+        "Pengobatan": [
+            " Imobilisasi dengan gips atau operasi jika perlu.",
+            " Pastikan pemulihan yang memadai dengan membatasi gerakan hewan selama masa penyembuhan."
+        ]
+    },
+    {
+        "Penyakit": "Ginggivitis",
+        "Gejala dan tanda": [
+            "Luka penis"
+        ],
+        "Penyebab": [
+            "Infeksi bakteri akibat kebersihan mulut yang buruk atau kekurangan nutrisi."
+        ],
+        "Pengobatan": [
+            " Pembersihan gigi dan gusi",
+            " Pemberian antibiotik",
+            " Asupan makanan yang bergizi."
+        ]
+    },
+    {
+        "Penyakit": "Hernia",
+        "Gejala dan tanda": [
+            "Hernia umbilicalis",
+            "Hernia abdominalis"
+        ],
+        "Penyebab": [
+            "Kelemahan pada dinding otot atau jaringan akibat bawaan lahir atau trauma."
+        ],
+        "Pengobatan": [
+            "Operasi untuk memperbaiki hernia jika ukurannya besar atau mengganggu aktivitas hewan."
+        ]
+    },
+    {
+        "Penyakit": "Hipofungsi Ovari",
+        "Gejala dan tanda": [
+            "Anestrus",
+            "Kekurusan"
+        ],
+        "Penyebab": [
+            "Ketidakseimbangan hormon atau masalah pada ovarium."
+        ],
+        "Pengobatan": [
+            "Terapi hormon menggunakan suntikan hormon seperti GnRH atau hormon lainnya yang disesuaikan untuk mengembalikan fungsi ovarium."
+        ]
+    },
+    {
+        "Penyakit": "Indigesti",
+        "Gejala dan tanda": [
+            "Demam",
+            "Anorexia"
+        ],
+        "Penyebab": [
+            "Pakan yang sulit dicerna",
+            "Perubahan pakan yang mendadak",
+            "Pakan yang tercemar."
+        ],
+        "Pengobatan": [
+            "Pemberian antasida atau probiotik untuk membantu pencernaan",
+            "Penyesuaian pola makan untuk menghindari iritasi lebih lanjut."
+        ]
+    },
+    {
+        "Penyakit": "Kawin Berulang",
+        "Gejala dan tanda": [
+            "Kawin berulang"
+        ],
+        "Penyebab": [
+            "Gangguan reproduksi atau masalah hormonal."
+        ],
+        "Pengobatan": [
+            " Pemeriksaan kesehatan reproduksi secara menyeluruh termasuk uji hormonal",
+            " Pemberian pengobatan sesuai kebutuhan seperti terapi hormon atau teknik inseminasi buatan."
+        ]
+    },
+    {
+        "Penyakit": "Kecelakaan",
+        "Gejala dan tanda": [
+            "Buta",
+            "Luka berdarah",
+            "Pincang",
+            "Tanda lain"
+        ],
+        "Penyebab": [
+            "Trauma fisik akibat kecelakaan seperti jatuh atau tertabrak."
+        ],
+        "Pengobatan": [
+            " Pembersihan luka",
+            " pemberian antibiotik jika diperlukan",
+            " Perban atau immobilisasi pada bagian yang cedera.",
+            " Pastikan lingkungan aman untuk mencegah kecelakaan lebih lanjut."
+        ]
+    },
+    {
+        "Penyakit": "Keguguran",
+        "Gejala dan tanda": [
+            "Keguguran Muda",
+            "Lahir mati",
+            "Keguguran"
+        ],
+        "Penyebab": [
+            "Infeksi",
+            "Ketidakseimbangan hormon",
+            "Stres yang berlebihan."
+        ],
+        "Pengobatan": [
+            " Pemberian terapi suportif untuk induk termasuk antibiotik jika diperlukan",
+            " Pengawasan ketat selama masa kehamilan berikutnya."
+        ]
+    },
+    {
+        "Penyakit": "Kekurangan Calsium",
+        "Gejala dan tanda": [
+            "Ambruk",
+            "Kekukurusan"
+        ],
+        "Penyebab": [
+            "Defisiensi kalsium terutama pada sapi perah yang sedang laktasi."
+        ],
+        "Pengobatan": [
+            " Pemberian suplemen kalsium baik secara oral atau injeksi.",
+            " Pencegahan dilakukan dengan memastikan diet hewan mencukupi kebutuhan mineralnya."
+        ]
+    },
+    {
+        "Penyakit": "Keracunan",
+        "Gejala dan tanda": [
+            "Lemah",
+            "Liur berlebihan",
+            "Mencret",
+            "Anorexia"
+        ],
+        "Penyebab": [
+            "Konsumsi bahan beracun seperti tanaman beracun bahan kimia atau obat-obatan tertentu."
+        ],
+        "Pengobatan": [
+            " Detoksifikasi dengan memberikan arang aktif",
+            " Cairan infus",
+            " Obat penawar tergantung jenis racunnya.",
+            " Jaga lingkungan bebas dari bahan beracun."
+        ]
+    },
+    {
+        "Penyakit": "Keracunan Pestisida",
+        "Gejala dan tanda": [
+            "Lemah",
+            "Anorexia"
+        ],
+        "Penyebab": [
+            "Paparan atau konsumsi pestisida."
+        ],
+        "Pengobatan": [
+            " Pemberian antidot (penawar racun) seperti atropin jika keracunan akibat pestisida organofosfat",
+            " Terapi cairan",
+            " Pengawasan intensif.",
+            " Batasi penggunaan pestisida di area ternak."
+        ]
+    },
+    {
+        "Penyakit": "Konjunctivitas",
+        "Gejala dan tanda": [
+            "Kornea Mata Keruh",
+            "Buta"
+        ],
+        "Penyebab": [
+            "Infeksi bakteri",
+            "virus",
+            "Alergi",
+            "atau iritasi fisik."
+        ],
+        "Pengobatan": [
+            " Pemberian tetes mata antibiotik atau salep mata sesuai dengan penyebabnya.",
+            " Jaga kebersihan area mata untuk menghindari infeksi berulang."
+        ]
+    },
+    {
+        "Penyakit": "Malnutrisi",
+        "Gejala dan tanda": [
+            "Diare",
+            "Gangguan pada organ tubuh",
+            "Gangguan pencernaan seperti diare atau sembelit",
+            "Gangguan pertumbuhan pada anak-anak",
+            "Gangguan sistem kekebalan tubuh",
+            "Gangguan sistem saraf",
+            "Kegagalan organ tertentu karena kekurangan nutrisi tertentu",
+            "Kelelahan yang kronis",
+            "Kelesuan",
+            "Kualitas bulu atau kulit yang buruk",
+            "Kulit kering dan bersisik",
+            "Lemah",
+            "Masalah gigi dan gusi",
+            "Masalah pada perkembangan otak pada anak-anak",
+            "Masalah reproduksi pada wanita",
+            "Mata cekung",
+            "Penurunan berat badan yang signifikan",
+            "Rambut kering",
+            "Rambut mudah rontok",
+            "Sembelit",
+            "Luka yang sulit sembuh",
+            "kulit kering",
+            "Berdarah atau gusi yang bengkak",
+            "Hati atau ginjal",
+            "Kerontokan bulu",
+            "Haid tidak teratur",
+            "Anemia"
+        ],
+        "Penyebab": [
+            "Asupan nutrisi yang tidak mencukupi kebutuhan tubuh atau ketidakseimbangan diet."
+        ],
+        "Pengobatan": [
+            " Perbaikan pola makan dengan memberikan pakan berkualitas dan suplemen jika diperlukan.",
+            " Pastikan pakan sesuai kebutuhan nutrisi spesifik hewan."
+        ]
+    },
+    {
+        "Penyakit": "Mastisis",
+        "Gejala dan tanda": [
+            "Ambing Bengkak",
+            "Anoresia",
+            "Liur Berlebihan",
+            "Abses"
+        ],
+        "Penyebab": [
+            "Infeksi bakteri pada jaringan ambing sering kali karena kebersihan yang kurang baik."
+        ],
+        "Pengobatan": [
+            "Antibiotik",
+            "Kompres hangat",
+            "Istirahatkan hewan dari proses pemerahan. Jaga kebersihan peralatan perah dan area kandang."
+        ]
+    },
+    {
+        "Penyakit": "Miasis",
+        "Gejala dan tanda": [
+            "Gangguan umum dalam perilaku atau kesehatan",
+            "Hilangnya bulu atau rambut pada area yang terinfeksi",
+            "Kehilangan nafsu makan",
+            "Kemerahan",
+            "Luka Berdarah",
+            "Menggaruk atau menggosok bagian tubuh tertentu",
+            "Pembengkakan pada area terinfeksi",
+            "Pembentukan benjolan atau lepuh pada kulit",
+            "Penurunan berat badan",
+            "Peradangan kulit",
+            "Perilaku gelisah atau gatal",
+            "Sekresi cairan atau nanah dari area terinfeksi",
+            "Bau busuk yang tidak sedap dari luka atau area terinfeksi"
+        ],
+        "Penyebab": [
+            "Infestasi larva lalat pada luka terbuka."
+        ],
+        "Pengobatan": [
+            " Pengangkatan larva secara manual",
+            " Pembersihan luka",
+            " Pemberian antibiotik.",
+            " Gunakan insektisida atau pengusir serangga untuk mencegah infestasi."
+        ]
+    },
+    {
+        "Penyakit": "Orf",
+        "Gejala dan tanda": [
+            "Kelainan mulut",
+            "Radang mata",
+            "Kelainan mata"
+        ],
+        "Penyebab": [
+            "Virus Parapoxvirus yang menular melalui kontak langsung atau permukaan yang terkontaminasi."
+        ],
+        "Pengobatan": [
+            " Pengobatan suportif untuk menjaga kebersihan area lesi dan mencegah infeksi sekunder.",
+            " Vaksinasi dapat digunakan sebagai pencegahan."
+        ]
+    },
+    {
+        "Penyakit": "Otitis Interna",
+        "Gejala dan tanda": [
+            "Radang telinga"
+        ],
+        "Penyebab": [
+            "Infeksi bakteri atau jamur pada telinga bagian dalam."
+        ],
+        "Pengobatan": [
+            " Antibiotik sistemik dan obat antiradang.",
+            " Bersihkan telinga dengan hati-hati dan gunakan antiseptik telinga sesuai instruksi dokter hewan."
+        ]
+    },
+    {
+        "Penyakit": "Papilloma",
+        "Gejala dan tanda": [
+            "Kelainan kulit"
+        ],
+        "Penyebab": [
+            "Infeksi virus papilloma yang biasanya menular melalui kontak langsung atau benda yang terkontaminasi."
+        ],
+        "Pengobatan": [
+            "Biasanya tidak memerlukan pengobatan khusus",
+            "Kutil dapat dihilangkan dengan bedah jika mengganggu atau infeksi sekunder terjadi."
+        ]
+    },
+    {
+        "Penyakit": "Pneumonia",
+        "Gejala dan tanda": [
+            "Kekurusan",
+            "Batuk"
+        ],
+        "Penyebab": [
+            "Infeksi bakteri",
+            "virus",
+            "atau jamur pada paru-paru",
+            "sering kali diperparah oleh kondisi lingkungan yang buruk."
+        ],
+        "Pengobatan": [
+            "Antibiotik atau antijamur sesuai penyebabnya",
+            "Pemberian terapi suportif. Pastikan kandang berventilasi baik untuk mengurangi risiko penyebaran penyakit."
+        ]
+    },
+    {
+        "Penyakit": "Prolapsus Dubur",
+        "Gejala dan tanda": [
+            "Prolaps Anus"
+        ],
+        "Penyebab": [
+            "Konstipasi",
+            "Infeksi cacing",
+            "atau tekanan berlebihan pada perut."
+        ],
+        "Pengobatan": [
+            "Mengembalikan dubur ke posisi semula secara hati-hati dan mempertahankan dengan penjahitan sementara jika diperlukan. ",
+            "Berikan pakan tinggi serat untuk mencegah sembelit."
+        ]
+    },
+    {
+        "Penyakit": "Q fever",
+        "Gejala dan tanda": [
+            "Demam",
+            "Ambing bengkak"
+        ],
+        "Penyebab": [
+            "Infeksi bakteri Coxiella burnetii yang dapat menular ke manusia (zoonosis)."
+        ],
+        "Pengobatan": [
+            "Antibiotik seperti tetrasiklin. Perhatikan kebersihan kandang dan isolasi hewan yang terinfeksi untuk mencegah penyebaran."
+        ]
+    },
+    {
+        "Penyakit": "Radang Mata",
+        "Gejala dan tanda": [
+            "Bulu Rontok",
+            "Daun Telinga Keropeng",
+            "Gatal atau terasa seperti ada benda asing di mata",
+            "Kelopak mata melekat saat bangun tidur (terutama pada konjungtivitis bakteri)",
+            "Keluarnya sekresi",
+            "Kornea Mata Keruh",
+            "Mata berair",
+            "Mata berdarah",
+            "Mata iritasi",
+            "Mata merah",
+            "Mata terasa kering atau terasa pasir di mata",
+            "Mengedipkan mata lebih sering dari biasanya",
+            "Pembengkakan pada kelopak mata",
+            "Pengeluaran nanah dari mata",
+            "Penglihatan kabur",
+            "Perkulitan",
+            "Produksi lendir atau nanah pada mata (terutama jika infeksi bakteri)",
+            "Rasa nyeri atau ketidaknyamanan di mata",
+            "Rasa perih atau sakit di mata",
+            "Sensasi panas di mata",
+            "Sensitivitas terhadap cahaya (fotofobia)",
+            "Borok Perkulitan"
+        ],
+        "Penyebab": [
+            "Infeksi virus",
+            "bakteri",
+            "atau iritasi akibat alergi atau benda asing."
+        ],
+        "Pengobatan": [
+            "Penggunaan tetes mata antibiotik atau antiinflamasi",
+            "Menjaga kebersihan mata."
+        ]
+    },
+    {
+        "Penyakit": "Retensio Secundarium",
+        "Gejala dan tanda": [
+            "Kenaikan suhu tubuh (demam)",
+            "Nyeri atau kram perut bagian bawah",
+            "Perasaan penuh atau tertekan di perut bagian bawah",
+            "Perdarahan vagina yang berkepanjangan setelah persalinan",
+            "Retensi placenta",
+            "Bau tidak sedap dari perdarahan vagina (baunya bisa menjadi busuk)"
+        ],
+        "Penyebab": [
+            "Tersimpannya sisa-sisa plasenta di dalam rahim setelah proses persalinan."
+        ],
+        "Pengobatan": [
+            "Dilakukan kuretase untuk mengangkat sisa plasenta ",
+            "Pemberian antibiotik untuk mencegah infeksi."
+        ]
+    },
+    {
+        "Penyakit": "Scabies",
+        "Gejala dan tanda": [
+            "Borok Perkulitan",
+            "Bulu Rontok",
+            "Perkulitan",
+            "gatal",
+            "Anorexia"
+        ],
+        "Penyebab": [
+            "Infeksi kulit akibat tungau Sarcoptes scabiei"
+        ],
+        "Pengobatan": [
+            "Penggunaan krim atau salep yang mengandung permetrin atau lindane",
+            "Mencuci semua pakaian dan linen untuk mencegah penularan."
+        ]
+    },
+    {
+        "Penyakit": "Silent heart",
+        "Gejala dan tanda": [
+            "anestrus"
+        ],
+        "Penyebab": [
+            "Penyakit jantung yang tidak terdiagnosis atau tidak menunjukkan gejala klasik."
+        ],
+        "Pengobatan": [
+            "Monitoring dan pengelolaan kondisi jantung melalui gaya hidup sehat",
+            "Obat-obatan",
+            "atau prosedur medis sesuai kebutuhan."
+        ]
+    },
+    {
+        "Penyakit": "Stomatitis",
+        "Gejala dan tanda": [
+            "Demam",
+            "Liur berdarah",
+            "Anorexia"
+        ],
+        "Penyebab": [
+            "Infeksi virus",
+            "Bakteri",
+            "atau reaksi alergi."
+        ],
+        "Pengobatan": [
+            "Rinsing mulut dengan larutan antiseptik penghilang rasa sakit",
+            "Antibiotik."
+        ]
+    },
+    {
+        "Penyakit": "Surra",
+        "Gejala dan tanda": [
+            "Demam",
+            "Sempoyongan",
+            "Anorexia"
+        ],
+        "Penyebab": [
+            "Infeksi parasit Trypanosoma evansi yang ditularkan melalui gigitan serangga."
+        ],
+        "Pengobatan": [
+            "Pemberian obat antiparasit dan menjaga kebersihan lingkungan untuk mengurangi risiko infeksi."
+        ]
+    },
+    {
+        "Penyakit": "Sehat",
+        "Gejala dan tanda": [
+            "Tidak Sakit",
+            "Tanda lain"
+        ],
+        "Penyebab": [
+            "Kesehatan yang baik tanpa adanya kondisi medis yang mendasari."
+        ],
+        "Pengobatan": [
+            "Tidak diperlukan pengobatan",
+            "Melakukan pemeriksaan kesehatan secara berkala."
+        ]
+    },
+    {
+        "Penyakit": "Tympany",
+        "Gejala dan tanda": [
+            "Kehilangan nafsu makan",
+            "Kesulitan bergerak atau berdiri",
+            "Kesulitan bernapas",
+            "Keterlambatan dalam pengosongan perut",
+            "Mungkin terjadi bisingan pada rongga dada atau pernapasan yang cepat",
+            "Pernapasan cepat",
+            "Perut yang membesar secara tiba-tiba",
+            "Perut yang membuncit",
+            "Produksi ludah berlebihan",
+            "Sapi tampak gelisah",
+            "Sapi tampak tidak nyaman",
+            "Sering mengunyah atau menggerogoti benda-benda di sekitarnya",
+            "Suara perut yang berbunyi-bunyi",
+            "gelisah",
+            "Kegagalan hewan untuk makan atau minum"
+        ],
+        "Penyebab": [
+            "Penumpukan gas dalam saluran pencernaan."
+        ],
+        "Pengobatan": [
+            "Mengurangi konsumsi makanan yang memproduksi gas",
+            "Penggunaan obat anti gas",
+            "Teknik relaksasi."
+        ]
+    },
+    {
+        "Penyakit": "Urolothiasis",
+        "Gejala dan tanda": [
+            "Kesulitan kencing"
+        ],
+        "Penyebab": [
+            "Dehidrasi",
+            "Diet tinggi fosfor dan magnesium",
+            "Ketidakseimbangan kalsium-fosfor",
+            "Bahan pakan tertentu (biji-bijian, konsentrat)",
+            "Kurangnya aktivitas"
+        ],
+        "Pengobatan": [
+            "Hidrasi dan elektrolit",
+            "Obat diuretik dan antiinflamasi",
+            "Prosedur bedah (urethrotomy, tube cystotomy)",
+            "Pencegahan dengan perbaikan pakan"
+        ]
+    }
+]
