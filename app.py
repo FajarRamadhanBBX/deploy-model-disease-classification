@@ -4,8 +4,10 @@ import pandas as pd
 import xgboost as xgb
 import numpy as np
 from static.header_column import header_column
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 with open('static/disease_data.json', 'r', encoding='utf-8') as json_disease:
     disease_data = json.load(json_disease)
