@@ -16,4 +16,4 @@ Make sure you have installed Docker on your local machine.
 3. Verify the Image
    ```sh
     docker images
-   You should see disease-classification-from-symptoms with the tag `latest` in the list.```
+   You should see disease-classification-from-symptoms with the tag latest in the list.```
